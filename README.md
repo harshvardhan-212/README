@@ -35,10 +35,10 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshthakur212&show_icons=true&locale=en&layout=compact" alt="harshthakur212" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvardhan-212&show_icons=true&locale=en&layout=compact" alt="harshvardhan-212" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshthakur212&show_icons=true&locale=en" alt="harshthakur212" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshvardhan-212&show_icons=true&locale=en" alt="harshvardhan-2122" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshthakur212&" alt="harshthakur212" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhan-2122&" alt="harshvardhan-212" /></p>
 
 <p><a href="https://www.buymeacoffee.com/thakurharsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thakurharsh" /></a></p><br><br>
