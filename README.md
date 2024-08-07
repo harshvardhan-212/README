@@ -13,7 +13,7 @@
 
 - 🌱 Also, learning **Nodejs and Expressjs for development**
 
-- 👨‍💻 All of my projects are available at [https://harsh212.netlify.app/](https://harsh212.netlify.app/)](https://harshthakurwork.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://harshthakurwork.netlify.app/)
 
 - 💬 Ask me about **react, javascript and desigining**
 
